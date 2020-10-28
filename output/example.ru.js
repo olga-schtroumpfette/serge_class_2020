@@ -1,4 +1,4 @@
 export default {
     'title': 'Привет, мир!', // Page title
-    'message': "This is the newest version of the old message from Github", // Text that appears below the title
+    'message': "Перевод от разработчика в обход Smartcat", // Text that appears below the title
 };
